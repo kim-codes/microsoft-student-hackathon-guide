@@ -1,6 +1,6 @@
 # Steps to redeem your student credit 
 
-## 1. Navigate to Student Landing Page: azure.microsoft.com/students 
+## 1. Navigate to Student Landing Page: [azure.microsoft.com/students](https://azure.microsoft.com/en-ca/free/students/)
 
 ![student-1](https://user-images.githubusercontent.com/5739370/91560007-184d8d80-e907-11ea-8f6c-ce06a87558c0.PNG)
 
