@@ -8,6 +8,8 @@
 
 - Microsoft Azure's Student Developer Resources  [https://azure.microsoft.com/en-ca/developer/students/](https://azure.microsoft.com/en-ca/developer/students/)
 
+- Code using the same tools as pro developers! [Watch videos on how to use Visual Studio Code >](https://code.visualstudio.com/docs/getstarted/introvideos)
+
 - Interested in connecting with Microsoft Learn Student Ambassadors in your area [find one here](https://studentambassadors.microsoft.com/search/Profile)
 
 - Interested in BECOMING a Microsoft Learn Student Ambassador? [Apply here now](https://studentambassadors.microsoft.com/) and be a force for good-locally and globally :blue_heart:
