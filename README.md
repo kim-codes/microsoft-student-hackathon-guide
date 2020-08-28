@@ -15,3 +15,5 @@
 ![hackathon-resources-banner-fr](https://user-images.githubusercontent.com/5739370/91455737-77040000-e850-11ea-9d55-5c7b525dbe64.PNG)
 
 ### [ressources en Français cliquez ici](/fr/hackathon-resources-fr.md)
+
+*Please note this is a condensed version of student resources for a hackathon, please visit Microsoft's official site for Student resources and guidance from Microsoft [https://azure.microsoft.com/free/students/starter/](https://azure.microsoft.com/free/students/starter/)*
