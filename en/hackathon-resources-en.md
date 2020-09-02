@@ -12,7 +12,7 @@
 
 - Checkout this exclusive PowerApps tutorial created specifically for this hackathon, created for students! 
 
-[![powerapps tutorial on youtube](https://user-images.githubusercontent.com/5739370/91988961-ee78da00-ecfd-11ea-8720-dd1c43d6f0f3.png)](https://www.youtube.com/watch?v=cx8xEy8d5Cc  "PowerApps Tutorial- Click to Watch!")
+[![powerapps tutorial on youtube](https://user-images.githubusercontent.com/5739370/91990025-39dfb800-ecff-11ea-9bbe-b9db47cb01fe.png)](https://www.youtube.com/watch?v=cx8xEy8d5Cc  "PowerApps Tutorial- Click to Watch!")
 
 - Interested in connecting with Microsoft Learn Student Ambassadors in your area [find one here](https://studentambassadors.microsoft.com/search/Profile)
 
