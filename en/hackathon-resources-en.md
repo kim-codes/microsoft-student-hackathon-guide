@@ -1,6 +1,6 @@
 #  English resources 
 
-![hackathon-resources-banner](https://user-images.githubusercontent.com/5739370/91455732-766b6980-e850-11ea-9b3c-f24ff80ee0ed.PNG)
+![hackathon-resources-banner](https://user-images.githubusercontent.com/5739370/91989720-d5bcf400-ecfe-11ea-9792-42ac648610b5.png)
 
 ## Microsoft Azure Free Credits and more! 
 
